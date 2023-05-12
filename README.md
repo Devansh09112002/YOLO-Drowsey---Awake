@@ -1,0 +1,2 @@
+# YOLO-Drowsey---Awake
+The program implements a real-time object detection model, which can distinguish between drowsy and awake states. This is accomplished through the utilization of YOLO v5, which captures images and objects within a frame in real-time. Additionally, an alternative model has been implemented using Python and OpenCV. A comparative study between the two models revealed that YOLO is both faster and more accurate.
